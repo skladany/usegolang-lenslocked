@@ -1,5 +1,8 @@
 # Web Development with Go - v2
 
+Following along with this great Go Tutorial:
+
+"Learn to Create Web Applications using Go"
 [usegolang.com](usegolang.com)
 
 ## Section 1 - Getting Started
@@ -13,4 +16,18 @@
 - [x] HTTP Methods
 - [x] Our Handler Function
 - [x] Registering our Handler Function and Starting the Web Server
-- [ ] Go Modules
+- [x] Go Modules
+
+## Section 2- Adding New Pages
+
+- [ ] Dynamic Reloading
+- [ ] Setting Header Values
+- [ ] Creating a Contact Page
+- [ ] Examining the http.Request Type
+- [ ] Custom Routing
+- [ ] url.Path vs url.RawPath
+- [ ] Not Found Page
+- [ ] The http.Handler Type
+- [ ] The http.HandlerFunc Type
+- [ ] Exploring Handler Conversion
+- [ ] FAQ Exercise
