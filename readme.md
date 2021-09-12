@@ -3,7 +3,7 @@
 Following along with this great Go Tutorial:
 
 "Learn to Create Web Applications using Go"
-[usegolang.com](usegolang.com)
+[usegolang.com](https://usegolang.com)
 
 ## Section 1 - Getting Started
 
